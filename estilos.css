@@ -19,3 +19,29 @@ p{
     height: 150px;
     background-color: rgba(0, 0, 255,0.5);
 }
+
+.unacajamas{
+    width: 150px;
+    height: 150px;
+    background-color: #1200aa;
+}
+
+.capibara{
+    width: 150px;
+    height: 150px;
+    background-color: hsla(0,100%,50%,0.5);
+}
+
+*{
+    color: green;
+    font-weight: bolder;
+}
+
+#soyunico{
+    width: 250px;
+    height: 50px;
+    background-color: aqua;
+}
+a[title]{
+    color: red;
+}
