@@ -70,3 +70,7 @@ p::first-letter{
     height: 100px;
     background-color: blueviolet;
 }
+
+.padre p{
+    color: red;
+}
