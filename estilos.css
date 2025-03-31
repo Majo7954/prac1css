@@ -42,6 +42,25 @@ p{
     height: 50px;
     background-color: aqua;
 }
+
 a[title]{
     color: red;
+}
+
+button:hover{
+    background-color: yellow;
+    color: red;
+}
+
+input:disabled{
+    background-color: black;
+}
+
+p::first-line{
+    color: green;
+}
+
+p::first-letter{
+    color: red;
+    font-size: 45px;
 }
